@@ -2,15 +2,15 @@
 
 Notifications on Apple Watch facilitate quick, lightweight interactions for local and remote notifications. These interactions occur in two stages, which are managed by the short-look and long-look interfaces. The short-look interface appears when a local or remote notification first arrives. 
 
-Short-Look Notifications
+# Short-Look Notifications
 
 Short looks let the user know which app received a notification and are visible only briefly. The short-look interface is template-based and contains the app name, app icon, and the title string from the accompanying notification. The system displays the app name using the app’s key color.
 
-Custom Long-Look Notifications
+# Custom Long-Look Notifications
 
 Long looks provide more detail about an incoming notification. The system provides a default long-look appearance, but you can customize the long-look interface to incorporate custom graphics and branding. The structure of the long-look interface is the same for all apps. At the top of the interface is the system-provided sash, which displays the app icon and app name. At the bottom of the interface is a Dismiss button. In between is your custom content and any app-specific action buttons.
 
-The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) 2015
 
