@@ -64,6 +64,5 @@ class NotificationController: WKUserNotificationInterfaceController {
         var region = MKCoordinateRegion(center: location, span: span)
         self.watchMap.setRegion(region)
     
-    
     }
 }

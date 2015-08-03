@@ -1,7 +1,7 @@
 {
     "aps": {
         "alert": {
-            "body": "Static Notifications",
+            "body": "Shani",
             "title": "Optional title"
         },
         "category": "myCategory"
